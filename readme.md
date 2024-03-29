@@ -36,3 +36,13 @@ git pull
 
 
 Это основные шаги для начала работы с Git. Надеюсь, эта инструкция поможет вам освоить основы работы с системой контроля версий Git. Если у вас возникнут дополнительные вопросы, не стесняйтесь спрашивать!
+
+```mermaid
+%% are you gay scheme
+flowchart TD;
+A[Are you gay?Lets find out!] --> B[Do you get boner while watching trap porn?];
+B -- YES --> C[you are not gay, bro;)];
+B -- NO -- > D[whats wrong with you?!];
+C ----> E[stick your finger in my ass];   	
+D ----> E[stick your finger in my ass];
+```
