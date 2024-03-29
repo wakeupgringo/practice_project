@@ -42,7 +42,7 @@ git pull
 flowchart TD;
     A[Are you gay?Lets find out!] --> B[Do you get boner while watching trap porn?];
     B -- YES --> C[you are not gay, bro];
-    B -- NO -- > D[whats wrong with you?!];
+    B -- NO --> D[whats wrong with you?!];
     C ----> E[stick your finger in my ass];   	
     D ----> E[stick your finger in my ass];
 ```
